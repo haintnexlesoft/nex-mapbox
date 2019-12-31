@@ -1,6 +1,9 @@
 {
   "name": "nex-mapbox",
   "version": "0.0.0",
+  "engines": {
+    "yarn": "1.21.1"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
