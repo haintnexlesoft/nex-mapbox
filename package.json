@@ -2,7 +2,8 @@
   "name": "nex-mapbox",
   "version": "0.0.0",
   "engines": {
-    "yarn": "1.21.1"
+    "node": "10.16.3",
+    "npm": "6.13.0"
   },
   "scripts": {
     "ng": "ng",
